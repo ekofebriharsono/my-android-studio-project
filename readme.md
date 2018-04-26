@@ -5,4 +5,4 @@
 -----
 
 
-**Ini adalah bold menggunakan tanda double (*) **
+**Ini adalah bold menggunakan tanda double**
