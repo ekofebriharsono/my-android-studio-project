@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Youtube(Glory)</string>
+    <string name="action_settings">Setelan</string>
+    <string name="action_settings1">Tonton di TV</string>
+    <string name="action_settings2">Persyaratan dan kebijakan privasi</string>
+    <string name="action_settings3">Bantuan dan masukan</string>
+    <string name="action_settings4">Logout</string>
+</resources>

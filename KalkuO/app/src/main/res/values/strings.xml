@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kalku-O</string>
+    <string name="tab_text_1">Print</string>
+    <string name="tab_text_2">Foto Copy</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="jenis_kertas">
+        <item>70 GR</item>
+        <item>80 GR</item>
+        <item>Bawa Sendiri</item>
+    </string-array>
+
+    <string-array name="jenis_print">
+        <item>Hitam Putih</item>
+        <item>Berwarna</item>
+        <item>Warna Full</item>
+    </string-array>
+
+
+</resources>

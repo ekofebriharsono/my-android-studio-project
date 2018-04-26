@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Divisi KWU</string>
+    <string-array name="Jenis_kertas">
+        <item>A3</item>
+        <item>A4</item>
+        <item></item>
+        <item>Jäger</item>
+        <item>Müller</item>
+        <item>Schulz</item>erman_familienname
+        <item>Neumann</item>
+        <item>Schwarz</item>
+        <item>Lange</item>
+        <item>Köhler</item>
+        <item>Schumacher</item>
+    </string-array>
+</resources>

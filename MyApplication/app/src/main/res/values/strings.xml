@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Prin-O</string>
+    <string-array name="german_familienname">
+        <item>Bank Transfer - Virtual Account</item>
+        <item>Pulsa</item>
+
+    </string-array>
+
+    <string-array name="german_familienname1">
+        <item>BRI</item>
+        <item>BCA</item>
+        <item>Mandiri</item>
+
+    </string-array>
+
+
+    <string-array name="kota">
+        <item>Surabaya</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+
+    </string-array>
+
+
+    <string-array name="Daerah">
+        <item>Benowo</item>
+        <item>Semampir</item>
+        <item>Tandes</item>
+
+    </string-array>
+</resources>
